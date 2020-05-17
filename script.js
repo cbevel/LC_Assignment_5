@@ -13,6 +13,6 @@
 */
 
 
-window.addEventListener("load", function(){
+window.addEventListener("click", function(){
 
 });
